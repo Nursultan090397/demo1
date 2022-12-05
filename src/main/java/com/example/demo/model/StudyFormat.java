@@ -1,2 +1,6 @@
-package com.example.demo.model;public enum StudyFormat {
+package com.example.demo.model;
+
+public enum StudyFormat {
+    ONLINE,
+    OFFLINE
 }
